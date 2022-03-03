@@ -1,5 +1,5 @@
 # epns-incentives-backend
-Backend repository for the [incentives.epns.io](incentives.epns.io) dApp.
+Backend repository for the [incentives.epns.io](https://incentives.epns.io) dApp.
 
 Steps for installation:
 
