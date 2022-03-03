@@ -1,0 +1,3 @@
+app.ts merge=verify
+package.json merge=verify
+dbListener.ts merge=verify
